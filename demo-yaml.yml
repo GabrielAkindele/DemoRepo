@@ -1,0 +1,87 @@
+name: akindele
+age: 23
+sex: "male"
+schools: 
+  - university: 
+      academicStaffs:  
+        - deans: 
+            qualifications: proffesor
+            leve: 20
+            salary: #3000000
+            details: 
+            - id: 001
+              name: akindele
+              age: 67
+              sex: male
+            - id: 002
+              name: shola
+              age: 75
+              sex: female
+              degrees: 
+                - ssce
+                - nd
+                - hnd 
+                - bsc
+                - phd
+                - mmsc  
+
+        - hods: 
+            qualifications: doctorate
+            leve: 15
+            salary: #2000000
+            details: 
+            - id: 002
+              name: shola
+              age: 75
+              sex: female
+              degrees: 
+                - ssce
+                - nd
+                - hnd 
+                - bsc
+                - phd
+                - mmsc  
+        - lectures: 
+            qualifications: phd
+            leve: 12
+            salary: #1000000 
+            details: 
+            - id: 003
+              name: shola
+              age: 75
+              sex: female
+              degrees: 
+                - ssce
+                - bsc
+                - phd
+                - mmsc  
+      nonAcademicStaffs: 
+        - secretary: 
+            qualifications: bsc
+            level: 10
+            salary: #12000
+        - clerk 
+        - gateman
+        - clearners 
+      students: 
+        - male 
+        - female 
+      falculties: 
+        sciences:  
+          - chemistry
+          - physics
+        medcine: 
+          - anatomy
+          - physiology
+        arts: 
+          - sociology
+        engineering: 
+          - electrical
+          - mechanical
+          - civil 
+  - highschool
+  - elementary
+
+
+
+
